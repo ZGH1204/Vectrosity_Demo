@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Vectrosity/Demos/_Scenes/_Simple2DLine.unity
-  isLoaded: 1
-  isActive: 1
