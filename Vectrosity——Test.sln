@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectrosity——Test.CSharp.Plugins", "Vectrosity——Test.CSharp.Plugins.csproj", "{7C5E1DA2-AE55-635A-457C-AC66AC923BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectrosity——Test.CSharp", "Vectrosity——Test.CSharp.csproj", "{C83A02E4-F17E-6FBD-FE96-1F202ECC9676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C5E1DA2-AE55-635A-457C-AC66AC923BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5E1DA2-AE55-635A-457C-AC66AC923BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5E1DA2-AE55-635A-457C-AC66AC923BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5E1DA2-AE55-635A-457C-AC66AC923BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83A02E4-F17E-6FBD-FE96-1F202ECC9676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83A02E4-F17E-6FBD-FE96-1F202ECC9676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83A02E4-F17E-6FBD-FE96-1F202ECC9676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83A02E4-F17E-6FBD-FE96-1F202ECC9676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
